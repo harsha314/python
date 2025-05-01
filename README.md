@@ -1,2 +1,1 @@
-# python
-Python Notes
+# 100 Days of Kaggle
